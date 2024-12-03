@@ -21,3 +21,4 @@ The Healthy Life App is an all-in-one platform designed to empower individuals i
 - Educational Resources: Articles, videos, and tips on healthy living, stress management, and mindfulness.
 - Community Support: Social features to connect with like-minded individuals and share progress.
 - Progress Analytics: Visual dashboards to track improvements in diet, fitness, and mental health over time.
+ Progress Analytics: Visual dashboards to track improvements in diet, fitness, and mental health over time.
